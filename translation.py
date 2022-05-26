@@ -45,9 +45,9 @@ class LuciferMoringstar(object):
 
 ├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= 'https://t.me/movie_time_adda'>ONLINE CINEMA</a>
 buttons = [[
-                 InlineKeyboardButton("🎬 Our Channel Bot", url=f"https://t.me/Panchmisali_2_Bot")
-                 InlineKeyboardButton("🧑‍💻 Admin Chat Bot", url=f"https://t.me/Panchmisali_7_Bot")
-                 ]]"""
+  InlineKeyboardButton("🎬 Our Channel Bot", url=f"https://t.me/Panchmisali_2_Bot")
+  InlineKeyboardButton("🧑‍💻 Admin Chat Bot", url=f"https://t.me/Panchmisali_7_Bot")
+          ]]"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
