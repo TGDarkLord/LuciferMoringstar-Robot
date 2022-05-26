@@ -47,7 +47,7 @@ class LuciferMoringstar(object):
 buttons = [[
                  InlineKeyboardButton("🎬 Our Channel Bot", url=f"https://t.me/Panchmisali_2_Bot")
                  InlineKeyboardButton("🧑‍💻 Admin Chat Bot", url=f"https://t.me/Panchmisali_7_Bot")
-                 ],["""
+                 ]]"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
