@@ -45,7 +45,10 @@ class LuciferMoringstar(object):
 
 ├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= 'https://t.me/movie_time_adda'>ONLINE CINEMA</a>
 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+              )
+await query.edit_message_reply_markup( 
+                    reply_markup=InlineKeyboardMarkup(buttons)
                 )
 
     PR0FESS0R_99 = """
