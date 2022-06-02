@@ -48,8 +48,8 @@ buttons.append(
     [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
               )
 await query.edit_message_reply_markup( 
-                    reply_markup=InlineKeyboardMarkup(buttons)
-                )
+    reply_markup=InlineKeyboardMarkup(buttons)
+)
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
