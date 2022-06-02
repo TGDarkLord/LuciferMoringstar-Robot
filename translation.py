@@ -47,10 +47,6 @@ class LuciferMoringstar(object):
 buttons.append(
     [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://t.me/movie_time_adda}")]
               )
-await query.edit_message_reply_markup( 
-    reply_markup=InlineKeyboardMarkup(buttons)
-)
-return
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
