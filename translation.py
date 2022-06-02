@@ -44,9 +44,6 @@ class LuciferMoringstar(object):
 ├• 📣 <a href='https://t.me/+V-4mscR9JDVmZmE1'>ONLINE CINEMA UPDATES</a>
 
 ├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= 'https://t.me/movie_time_adda'>ONLINE CINEMA</a>
-buttons.append(
-    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://t.me/movie_time_adda}")]
-              )
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
