@@ -37,15 +37,8 @@ class LuciferMoringstar(object):
 
 ├• 💾 𝐒𝐢𝐳𝐞 : {size}
 
-├• ⏰ Date : tz=pytz.timezone('asia/kolkata')
-             yn=now.astimezone(tz)
-             hour=yn.hour
-             if 0<=hour<12:
-                greeting="goodmorning"
-             elif 12<=hour <17:
-                greeting='good afternoon'
-             else:
-                greeting='good evening'
+├• ⏰ Date : m = datetime.datetime.now(pytz.timezone("Asia/Kolkata"))
+             time = m.hour
 
 ├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
