@@ -37,8 +37,8 @@ class LuciferMoringstar(object):
 
 ├• 💾 𝐒𝐢𝐳𝐞 : {size}
 
-├• ⏰ Date : m = datetime.datetime.now(pytz.timezone("Asia/Kolkata"))
-             time = m.hour
+├• ⏰ Date : (pytz.timezone("Asia/Kolkata"))
+ 
 
 ├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
