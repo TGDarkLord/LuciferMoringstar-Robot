@@ -37,6 +37,8 @@ class LuciferMoringstar(object):
 
 ├• 💾 𝐒𝐢𝐳𝐞 : {size}
 
+├• ⏰ Date :
+
 ├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
 ├• 🔗 <a href ='https://t.me/movie_time_adda'>ONLINE CINEMA</a>
