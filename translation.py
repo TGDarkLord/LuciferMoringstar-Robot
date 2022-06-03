@@ -37,7 +37,7 @@ class LuciferMoringstar(object):
 
 ├• 💾 𝐒𝐢𝐳𝐞 : {size}
 
-├• ⏰ Date : (pytz.timezone("Asia/Kolkata"))
+├• ⏰ Date : [pytz.timezone{"Asia/Kolkata"}]
  
 
 ├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
