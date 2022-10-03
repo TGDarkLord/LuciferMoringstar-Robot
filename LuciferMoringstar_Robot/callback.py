@@ -262,7 +262,6 @@ async def cb_handler(client: lucifermoringstar_robot, query):
         elif query.data == "start":
             if query.from_user.id not in ADMINS: 
                 buttons = [[
-                 InlineKeyboardButton
                  InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
                  ],[
                  InlineKeyboardButton("ℹ️ Help", callback_data="help"),
@@ -273,7 +272,6 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                  ]]
             else:
                 buttons = [[
-                 InlineKeyboardButton
                  InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
                  ],[
                  InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
